@@ -1,0 +1,15 @@
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\Izume.Mobile.Odeo.Smartphone.Resource.group.ico
+obj\Debug\Izume.Mobile.Odeo.Smartphone.Resource.odeo.bmp
+obj\Debug\Izume.Mobile.Odeo.Smartphone.FrmChannel.resources
+obj\Debug\Izume.Mobile.Odeo.Smartphone.FrmPreferences.resources
+obj\Debug\Izume.Mobile.Odeo.Smartphone.FrmStartup.resources
+obj\Debug\Izume.Mobile.Odeo.Smartphone.csproj.GenerateResource.Cache
+bin\Debug\Izume.Mobile.Odeo.Smartphone.exe
+bin\Debug\Izume.Mobile.Odeo.Smartphone.pdb
+bin\Debug\Izume.Mobile.Odeo.Application.dll
+bin\Debug\Izume.Mobile.Odeo.Common.dll
+bin\Debug\Izume.Mobile.Odeo.Common.pdb
+bin\Debug\Izume.Mobile.Odeo.Application.pdb
+obj\Debug\Izume.Mobile.Odeo.Smartphone.exe
+obj\Debug\Izume.Mobile.Odeo.Smartphone.pdb

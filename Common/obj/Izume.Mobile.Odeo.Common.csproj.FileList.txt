@@ -1,0 +1,16 @@
+bin\Debug\Izume.Mobile.Odeo.Common.dll
+bin\Debug\Izume.Mobile.Odeo.Common.pdb
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\Izume.Mobile.Odeo.Common.Resource.cancelled.bmp
+obj\Debug\Izume.Mobile.Odeo.Common.Resource.complete.bmp
+obj\Debug\Izume.Mobile.Odeo.Common.Resource.fail.bmp
+obj\Debug\Izume.Mobile.Odeo.Common.Resource.inProcess.bmp
+obj\Debug\Izume.Mobile.Odeo.Common.Resource.new.bmp
+obj\Debug\Izume.Mobile.Odeo.Common.Resource.Card.gif
+obj\Debug\Izume.Mobile.Odeo.Common.Resource.Device.gif
+obj\Debug\Izume.Mobile.Odeo.Common.Resource.Folder.gif
+obj\Debug\Izume.Mobile.Odeo.Common.FileListDialog.resources
+obj\Debug\Izume.Mobile.Odeo.Common.FolderBrowserForm.resources
+obj\Debug\Izume.Mobile.Odeo.Common.csproj.GenerateResource.Cache
+obj\Debug\Izume.Mobile.Odeo.Common.dll
+obj\Debug\Izume.Mobile.Odeo.Common.pdb
